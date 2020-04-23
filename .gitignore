@@ -1,0 +1,6 @@
+**/*.py
+**/*.R
+**/.ipynb_checkpoints
+**/.DS_Store
+**/*.jpg
+**/*.png
